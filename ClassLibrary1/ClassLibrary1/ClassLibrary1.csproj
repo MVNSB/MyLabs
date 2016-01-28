@@ -46,6 +46,8 @@
     <Content Include="functions.html" />
     <Content Include="operatorscomp.html" />
     <Content Include="redirect.html" />
+    <Content Include="statements.html" />
+    <Content Include="statements2.html" />
     <Content Include="validate.html" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
