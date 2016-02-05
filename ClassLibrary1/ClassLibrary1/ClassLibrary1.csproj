@@ -43,6 +43,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="exceptions.html" />
     <Content Include="functions.html" />
     <Content Include="mouseover.html" />
     <Content Include="operatorscomp.html" />
